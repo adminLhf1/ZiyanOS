@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://image2url.com/r2/default/images/1774357399539-a881b8c2-dfa1-40cd-90f3-29ecf075e85a.jpeg" width="120" alt="HwBOS Logo">
+  <img src="https://cdn.phototourl.com/free/2026-04-18-fc4b93c1-a011-4c2d-b426-56f1661b9f11.jpg" width="120" alt="HwBOS Logo">
   <h1>HwBOS 桌面系统</h1>
   <p><strong>开箱即用的智能桌面环境 | 基于 NW.js 的完整操作系统模拟</strong></p>
   
